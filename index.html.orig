@@ -17,8 +17,11 @@
       <li>master</li>
       <li>hi i'm clone!!! </li>
       <li>i'm not clone!@!!</li>
+<<<<<<< HEAD
       <li>external tools master!!!!</li>
+=======
       <li>external tools test</li>
+>>>>>>> test4
     </ul>
   </body>
 </html>
